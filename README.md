@@ -3,7 +3,7 @@
 
 | 类别                                             | 应用名称                                     | 地址                                                                               |
 | ---------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------- |
-|                                                | TruthGPT                                 | https://gpt3demo.com/#                                                           |
+  
 | A/B Testing                                    | ABtesting.ai                             | [https://gpt3demo.com/apps/abtesting-ai](https://gpt3demo.com/apps/abtesting-ai) |
 | Ad Generation                                  | AdCreative.ai                            | https://gpt3demo.com/apps/adcreative-ai                                          |
 | Ad Generation                                  | Adflow                                   | https://gpt3demo.com/apps/adflow-ai                                              |
