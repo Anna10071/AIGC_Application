@@ -1,0 +1,2 @@
+# AIGC_Application
+基于ChatGPT、Midjourney等AIGC工具实现的应用
